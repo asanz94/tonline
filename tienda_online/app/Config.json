@@ -1,0 +1,18 @@
+{
+    "driver":"mysql",
+    "dbname":"tiendaonline",
+    "dbhost":"127.4.172.130",
+    "dbuser":"admine1l5nCM",
+    "dbpass":"JXUaKCHp9sEF",
+    "app_data":{
+        "css":"css/app.css",
+        "js":"js/application.js",
+        "titol":"Libreria TLO",
+        "logo":"img/logo.png",
+        "img":"img/",
+        "apli":"KMan",
+        "theme":"pub/themes/k/",
+        "app_w":""
+    }
+}
+
